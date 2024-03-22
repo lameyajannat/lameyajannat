@@ -5,7 +5,7 @@
   <img align="right" width="50%" src="https://raw.githubusercontent.com/oestradiol/oestradiol/main/me-coding.gif" alt="Me coding :3" /> <br>
   <h3>🌟 Who am I?</h3>
   <p>
-    I am a 14 year old girl. I'm absolutely enthusiastic about programming, which is why I've chosen to pursue a career as a Web designer and developer. Basically, I'm a Front-End Web Designer & Developer. I create impressive websites that effectively represent people or businesses. I also really like learning new programming languages and browsing internet. 
+    I am a 15 year old girl. I'm absolutely enthusiastic about programming, which is why I've chosen to pursue a career as a Web designer and developer. Basically, I'm a Front-End Web Designer & Developer. I create impressive websites that effectively represent people or businesses. I also really like learning new programming languages and browsing internet. 
   </p> <br>
 </section>
 
