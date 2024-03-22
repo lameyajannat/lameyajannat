@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Web Developing & Designing, Frameworks, Programming Languages and so on**
 
-- 💬 Ask me about **HTML,CSS,JavaScript & Laravel**
+- 💬 Ask me about **HTML, CSS, JavaScript & PHP**
 
 - 📫 How to reach me **ljannat2009@gmail.com**
 
