@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lameya Jannat</h1>
-<h3 align="center">A passionate Front-End Web Designer & Developer</h3>
+<h3 align="center">Front-End Web Designer & Developer</h3>
 
 <section>
   <img align="right" width="50%" src="https://raw.githubusercontent.com/oestradiol/oestradiol/main/me-coding.gif" alt="Me coding :3" /> <br>
