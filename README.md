@@ -27,6 +27,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=lameyajannat&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=lameyajannat&icon=9&color=5)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=lameyajannat&label=Profile%20Viewers&color=11&icon=9&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
