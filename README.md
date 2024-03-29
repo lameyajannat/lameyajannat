@@ -11,7 +11,7 @@
   </p> <br>
 </section>
 
-# 💫 About Me:
+# 💫💖 About Me:
 🔭 I’m currently **a student**<br><br>🌱 I’m currently learning **Web Developing & Designing, Frameworks, Programming Languages and so on**<br><br> 💬 Ask me about **HTML, CSS, JavaScript & PHP**<br><br> 📫 How to reach me **ljannat2009@gmail.com**<br><br> ⚡ Fun fact **I open tabs over spaces**<br>
 
 
