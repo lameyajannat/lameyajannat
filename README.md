@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lameya Jannat</h1>
-<h3 align="center">Front-End Web Designer & Developer</h3>
+<h3 align="center">Web Designer & Developer</h3>
 
 <section>
   <img align="right" width="50%" src="https://raw.githubusercontent.com/oestradiol/oestradiol/main/me-coding.gif" alt="Me coding :3" /> <br>
@@ -10,7 +10,7 @@
 </section>
 
 # 💫 About Me:
-🔭 I’m currently **a student**<br><br>🌱 I’m currently learning **Web Developing & Designing, Frameworks, Programming Languages and so on**<br><br> 💬 Ask me about **HTML, CSS, JavaScript & PHP**<br><br> 📫 How to reach me **ljannat2009@gmail.com**<br><br> ⚡ Fun fact **I am cheerful and kind-hearted**<br>
+🔭 I’m currently **a student**<br><br>🌱 I’m currently learning **Web Developing & Designing, Frameworks, Programming Languages and so on**<br><br> 💬 Ask me about **HTML, CSS, JavaScript & PHP**<br><br> 📫 How to reach me **ljannat2009@gmail.com**<br><br> ⚡ Fun fact **I open tabs over spaces**<br>
 
 
 ## 🌐 Socials:
